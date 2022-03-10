@@ -1,2 +1,0 @@
-# FoDA
-Group Assignment
