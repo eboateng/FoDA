@@ -3,4 +3,5 @@
 *_decom
 *.bz2
 *.zip
+RIPE_00-23.pkl
 .ipynb_checkpoints
